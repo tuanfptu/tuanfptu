@@ -58,16 +58,6 @@
 
 ---
 
-### 📂 Featured Capstone Project
-
-#### 📌 [MuM-PosFormer](https://github.com/tuanfptu/MUM_POSFORMER)
-*An efficient, multi-task learning framework for Handwritten Mathematical Expression Recognition (HMER) on the CROHME benchmark.*
-
-*   **Key Idea:** Integrating advanced visual-semantic pre-training tasks (MLM, Symbol Count, Tree Structure) into a lightweight **~6.5M parameter** PosFormer baseline.
-*   **Significance:** Enables high-accuracy offline math expression recognition on CPU and consumer-grade hardware by pruning training-only heads during inference.
-*   **Stack:** PyTorch, PyTorch Lightning, Weights & Biases, LaTeX.
-
----
 
 ### 📊 GitHub Stats & Activity
 
