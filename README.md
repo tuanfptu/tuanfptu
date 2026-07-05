@@ -14,7 +14,6 @@
 *   🎓 Final-year Computer Science student majoring in **Artificial Intelligence** at **FPT University Ho Chi Minh City**.
 *   🔬 Deeply interested in the intersection of **Physics** and **Machine Learning** (modeling complex physical systems using AI).
 *   🧠 Currently focused on **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and **Handwritten Mathematical Expression Recognition (HMER)**.
-*   🚀 Capstone Project: Working on **MuM-PosFormer** (a lightweight, multi-task learning HMER framework).
 *   📫 How to reach me: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
 
 ---
