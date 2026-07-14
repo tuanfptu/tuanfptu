@@ -1,68 +1,28 @@
-# Hi there, I'm Tuan! 👋 
-### Final Year AI & Deep Learning Student at FPT University HCMC
+# Hi, I'm Tuan Ha
 
-> *"Bridging the gap between the laws of Physics and the power of Artificial Intelligence."*
+Final-year Artificial Intelligence student at FPT University in Ho Chi Minh City, building reproducible machine-learning systems with a focus on computer vision and handwritten mathematical expression recognition.
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tuanfptu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Current focus
 
----
+- Handwritten mathematical expression recognition (HMER)
+- Computer vision and multimodal learning
+- Reproducible ML experiments, evaluation, and deployment
 
-### 💫 About Me
-*    Final-year Computer Science student majoring in **Artificial Intelligence** at **FPT University Ho Chi Minh City**.
-*    Deeply interested in the intersection of **Physics** and **AI** (modeling complex physical systems using AI).
-*    Currently focused on **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and **Handwritten Mathematical Expression Recognition (HMER)**.
-*    How to reach me: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
+## Featured work
 
----
+- [University-TAMER](https://github.com/tuanfptu/University-TAMER) - domain adaptation for handwritten university mathematics with realistic augmentation, replay, and retention-aware evaluation.
+- [Drowsiness Detection](https://github.com/tuanfptu/drowsiness-detection) - leakage-aware ECG/HRV and PVT classification pipeline with participant-level validation and deterministic tests.
+- [X-BERT Text Classification](https://github.com/tuanfptu/xbert-text-classification) - Vietnamese text and YouTube-comment classification with training notebooks and a Streamlit demo.
+- [Streamlit Data Chatbot](https://github.com/tuanfptu/streamlit-data-chatbot) - authenticated data-analysis assistant combining EDA, geospatial visualization, and baseline ML workflows.
+- [Local GPT Web UI](https://github.com/tuanfptu/local-gpt-web-ui) - lightweight local GGUF inference interface powered by `llama-cpp-python`.
+- [Image Compression with SVD](https://github.com/tuanfptu/img-compress-svd) - tested educational toolkit for low-rank image compression, quality metrics, and factor persistence.
 
-### 🔍 Areas of Interest & Research
+## Tools
 
-*   **Generative AI & LLMs:** Exploring instruction tuning, retrieval-augmented generation (RAG), and reasoning capability.
-*   **Vision-Language Models (VLMs):** Multi-modal learning, cross-attention structures, and token/relation grounding in images.
-*   **AI for Science & Physics:** Leveraging machine learning to simulate physical systems and mathematical structures.
+Python | PyTorch | OpenCV | scikit-learn | Streamlit | SQL | Git | Docker | LaTeX
 
----
+## Contact
 
-### 🛠️ Tech Stack & Tools
+- Email: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      🚀 <b>AI / ML & CV</b><br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat&logo=pytorchlightning&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=flat&logo=huggingface&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=black" />
-    </td>
-    <td valign="top" width="33%">
-      💻 <b>Languages & Core</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-    </td>
-    <td valign="top" width="33%">
-      ⚙️ <b>Tools & Environments</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanfptu&show_icons=true&theme=tokyonight&count_private=true" alt="Tuan's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanfptu&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-*Feel free to explore my repositories or connect with me for research collaborations!* 🌟
+I'm open to research collaboration and entry-level opportunities in AI/ML and computer vision.
