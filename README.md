@@ -11,10 +11,10 @@
 ---
 
 ### 💫 About Me
-*   🎓 Final-year Computer Science student majoring in **Artificial Intelligence** at **FPT University Ho Chi Minh City**.
-*   🔬 Deeply interested in the intersection of **Physics** and **Machine Learning** (modeling complex physical systems using AI).
-*   🧠 Currently focused on **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and **Handwritten Mathematical Expression Recognition (HMER)**.
-*   📫 How to reach me: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
+*    Final-year Computer Science student majoring in **Artificial Intelligence** at **FPT University Ho Chi Minh City**.
+*    Deeply interested in the intersection of **Physics** and **AI** (modeling complex physical systems using AI).
+*    Currently focused on **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, and **Handwritten Mathematical Expression Recognition (HMER)**.
+*    How to reach me: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
 
 ---
 
