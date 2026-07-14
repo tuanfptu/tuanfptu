@@ -13,7 +13,7 @@ Final-year Artificial Intelligence student at FPT University in Ho Chi Minh City
 - [University-TAMER](https://github.com/tuanfptu/University-TAMER) - domain adaptation for handwritten university mathematics with realistic augmentation, replay, and retention-aware evaluation.
 - [Drowsiness Detection](https://github.com/tuanfptu/drowsiness-detection) - leakage-aware ECG/HRV and PVT classification pipeline with participant-level validation and deterministic tests.
 - [X-BERT Text Classification](https://github.com/tuanfptu/xbert-text-classification) - Vietnamese text and YouTube-comment classification with training notebooks and a Streamlit demo.
-- [Streamlit Data Chatbot](https://github.com/tuanfptu/streamlit-data-chatbot) - authenticated data-analysis assistant combining EDA, geospatial visualization, and baseline ML workflows.
+
 
 
 ## Tools
