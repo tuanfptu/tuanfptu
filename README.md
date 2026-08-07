@@ -11,8 +11,6 @@ Final-year Artificial Intelligence student at FPT University in Ho Chi Minh City
 ## Featured work
 
 - [University-HMER-Research](https://github.com/tuanfptu/University-HMER-Research) - domain adaptation for handwritten university mathematics with realistic augmentation, replay, and retention-aware evaluation.
-- [X-BERT Text Classification](https://github.com/tuanfptu/xbert-text-classification) - Vietnamese text and YouTube-comment classification with training notebooks and a Streamlit demo.
-
 
 
 ## Tools
