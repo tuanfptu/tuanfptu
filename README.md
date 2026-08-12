@@ -53,8 +53,6 @@ Accepted(August 09, 2026) at [SIMC 2026](https://www.simc-conf.org/).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **Machine Learning & Multimodal AI**
 
