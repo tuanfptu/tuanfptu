@@ -45,7 +45,7 @@ Citation-grounded RAG for Vietnamese political-theory textbooks.
 ### [Qwen3-VL HMER](https://github.com/tuanfptu/handwritten-math-recognition)
 
 **Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition**  
-Accepted at [SIMC 2026](https://www.simc-conf.org/).
+Accepted(August 09, 2026) at [SIMC 2026](https://www.simc-conf.org/).
 
 ## Tech Stack
 
