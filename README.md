@@ -1,24 +1,65 @@
-# Hi, I'm Tuan Ha
+<div align="center">
 
-Final-year Artificial Intelligence student at FPT University in Ho Chi Minh City, building reproducible machine-learning systems with a focus on computer vision and handwritten mathematical expression recognition.
+# HA MANH TUAN
 
-## Current focus
+### AI Engineer · Computer Vision · LLM / RAG
 
-1. Handwritten mathematical expression recognition (HMER)
-2. Computer vision and multimodal learning
-3. Reproducible ML experiments, evaluation, and deployment
+Building reliable AI systems from model adaptation to production deployment.
 
-## Featured work
+[GitHub](https://github.com/tuanfptu) · [Hugging Face](https://huggingface.co/tuan3110) · [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Email](mailto:hatuan31102002@gmail.com)
 
-- [University-HMER-Research](https://github.com/tuanfptu/University-HMER-Research) - domain adaptation for handwritten university mathematics with realistic augmentation, replay, and retention-aware evaluation.
+</div>
 
+---
 
-## Tools
+## Featured Work
 
-Python | PyTorch | OpenCV | scikit-learn | Streamlit | SQL | Git | Docker | LaTeX
+### [University HMER](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 
-## Contact
+Real-world handwritten mathematical expression recognition for university calculus.
 
-- Email: [hatuan31102002@gmail.com](mailto:hatuan31102002@gmail.com)
+`TAMER Domain Adaptation` · `Qwen3.5 VLM` · `LoRA` · `PyTorch`
 
-I'm open to research collaboration and entry-level opportunities in AI/ML and computer vision.
+- **74.82% ExpRate** on the blind test with Uni-MuMER LoRA.
+- Real classroom dataset collected from **180 university students**.
+- Reproducible training, blind evaluation, model comparison, and deployment artifacts.
+- Dataset and selected model artifacts published on [Hugging Face](https://huggingface.co/tuan3110).
+
+### [VietTheory-RAG](https://github.com/tuanfptu/VietTheory-RAG)
+
+Citation-grounded RAG for Vietnamese political-theory textbooks.
+
+`BM25` · `Qwen Embeddings` · `FAISS` · `RRF` · `Qwen Reranker` · `Gemini`
+
+- **92.86% hidden Recall@5** on the frozen MLN111 benchmark.
+- Hybrid retrieval, evidence-group evaluation, and deterministic citation verification.
+- GPU reranking, multi-turn conversational context, private accounts, and isolated history.
+- FastAPI backend and Streamlit interface with expandable PDF evidence.
+
+---
+
+## Research
+
+**Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition**  
+SIMC 2026
+
+---
+
+## Tech
+
+**AI / ML**  
+PyTorch · Transformers · Qwen · LoRA · FAISS · CUDA · Hugging Face
+
+**Systems**  
+FastAPI · Docker · Streamlit · SQLite · Git
+
+**Focus**  
+Computer Vision · Vision-Language Models · HMER · LLM / RAG · Reproducible Evaluation
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/tuanfptu) · [Hugging Face](https://huggingface.co/tuan3110) · [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Email](mailto:hatuan31102002@gmail.com)
+
+</div>
