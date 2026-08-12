@@ -86,7 +86,7 @@ Accepted at [SIMC 2026](https://www.simc-conf.org/).
 - **Third Prize**, Vietnam National Physics Olympiad for High School Students — 2020
 - **Consolation Prize**, Vietnam National Physics Olympiad for High School Students — 2019
 - **Vallet Scholarship** — 2019
-- **Full Scholarship in Aeronautical Engineering**, Samara University
+- **Full Scholarship in Aeronautical Engineering(2020)**, Samara University
 
 ---
 
