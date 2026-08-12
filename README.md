@@ -1,7 +1,5 @@
 <div align="center">
 
-# HA MANH TUAN
-
 ### AI Engineer · Computer Vision · LLM / RAG
 
 Building reliable AI systems from model adaptation to production deployment.
