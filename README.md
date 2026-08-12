@@ -1,7 +1,6 @@
 <div align="center">
 
-### AI Engineer · Computer Vision · LLM / RAG
-
+### Final-year AI Student @ FPT University | Computer Vision · LLMs & RAG
 Building reliable AI systems from model adaptation to production deployment.
 
 [GitHub](https://github.com/tuanfptu) · [Hugging Face](https://huggingface.co/tuan3110) · [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Email](mailto:hatuan31102002@gmail.com)
