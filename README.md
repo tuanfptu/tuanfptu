@@ -92,6 +92,4 @@ Accepted(August 09, 2026) at [SIMC 2026](https://www.simc-conf.org/).
 
 <div align="center">
 
-[GitHub](https://github.com/tuanfptu) · [Hugging Face](https://huggingface.co/tuan3110) · [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Email](mailto:hatuan31102002@gmail.com)
-
 </div>
