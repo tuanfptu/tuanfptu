@@ -1,10 +1,12 @@
 <div align="center">
 
-### Final-year AI Student @ FPT University | Computer Vision · LLMs & RAG
+# HA MANH TUAN
 
-Building reliable AI systems from model adaptation to production deployment.
+### AI Engineer | Multimodal AI · LLM/RAG · Computer Vision
 
-[Hugging Face](https://huggingface.co/tuan3110) · [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Email](mailto:hatuan31102002@gmail.com)
+Building evaluated AI systems from model adaptation to production deployment.
+
+[LinkedIn](https://www.linkedin.com/in/muan3110/) · [Hugging Face](https://huggingface.co/tuan3110) · [Email](mailto:hatuan31102002@gmail.com)
 
 </div>
 
@@ -12,82 +14,90 @@ Building reliable AI systems from model adaptation to production deployment.
 
 ## About
 
-I build practical machine learning systems at the intersection of **multimodal AI**, **large language models**, and **computer vision**. My work focuses on adapting foundation models to specialized domains through parameter-efficient fine-tuning, retrieval-augmented generation, and agentic workflows.
+Final-year Artificial Intelligence student at **FPT University** building evaluated ML systems, deployment-ready AI applications, and research-grade RAG pipelines. My work focuses on parameter-efficient vision-language model adaptation, hybrid retrieval and reranking, computer vision, and end-to-end ML deployment.
 
-**Research areas:** Large language models · Retrieval-augmented generation (RAG) · Agentic AI · Multimodal AI · Vision-language models · Computer vision · LoRA/QLoRA · Document intelligence · Handwritten mathematical expression recognition · Generative AI
+- **Education:** B.Sc. in Artificial Intelligence, FPT University (2022–2026) · GPA: **8.3/10**
+- **Research:** First-author paper accepted at **SIMC 2026**
+- **Interests:** Multimodal AI · LLM/RAG · Agentic AI · Computer Vision · Model Adaptation
 
-## Featured Work
+## Experience
 
-### [University HMER](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
+### [AI Engineer Intern — NIDEC Powertrain Systems (Vietnam)](https://github.com/tuanfptu/nidec-scan-quality-monitor)
+*May 2025 – Sep 2025*
 
-Real-world handwritten mathematical expression recognition for university calculus.
+Built and deployed an end-to-end **LightGBM manufacturing-quality screening pipeline** covering tester-data ingestion, preprocessing, feature selection across approximately 175 signals, class-imbalance handling, traceable predictions, automated reporting, and a Windows/Streamlit workflow.
 
-`TAMER Domain Adaptation` · `Qwen3.5 VLM` · `LoRA` · `PyTorch`
+- Deployed on a company PC for pre-shipment inspection.
+- In one verified production run, **15/15 reviewed alerts were manually confirmed as defects** (**100% PPV on reviewed alerts**).
 
-- **74.82% ExpRate** on the blind test with Uni-MuMER LoRA.
-- Real classroom dataset collected from **180 university students**.
-- Reproducible training, blind evaluation, model comparison, and deployment artifacts.
-- Dataset and selected model artifacts published on [Hugging Face](https://huggingface.co/tuan3110).
+## Featured Projects
 
-### [VietTheory-RAG](https://github.com/tuanfptu/VietTheory-RAG)
+### [University HMER — Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
+*Mar 2026 – Aug 2026*
 
-Citation-grounded RAG for Vietnamese political-theory textbooks.
+`Vision-Language Models` · `LoRA` · `Domain Adaptation` · `PyTorch`
 
-`BM25` · `Qwen Embeddings` · `FAISS` · `RRF` · `Qwen Reranker` · `Gemini`
+Adapted handwritten mathematical expression recognition systems to real classroom images affected by shadows, perspective distortion, imperfect cropping, long expressions, and diverse handwriting.
 
-- **92.86% hidden Recall@5** on the frozen MLN111 benchmark.
-- Hybrid retrieval, evidence-group evaluation, and deterministic citation verification.
-- GPU reranking, multi-turn conversational context, private accounts, and isolated history.
-- FastAPI backend and Streamlit interface with expandable PDF evidence.
+- Built a multi-stage pipeline using **University12K + RealCalculus-1636**, TAMER adapter ablations, and **Uni-MuMER Qwen3.5-2B LoRA**.
+- Improved Uni-MuMER from **23.36% → 74.82% ExpRate** on a frozen **274-image blind test**.
+- TAMER-A3 achieved **71.17% ExpRate at 0.306 s/image**.
+- Dataset and selected artifacts are available on [Hugging Face](https://huggingface.co/tuan3110).
 
-## Research
+### [VietTheory Agentic Nexus — Evidence-Guided Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
+*Jan 2026 – Mar 2026*
 
-### [Qwen3-VL HMER](https://github.com/tuanfptu/handwritten-math-recognition)
+`Qwen` · `BM25` · `FAISS` · `RRF` · `Reranking` · `Gemini` · `FastAPI`
 
-**Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition**  
-Accepted (August 09, 2026) at [SIMC 2026](https://www.simc-conf.org/).
+Built a five-subject, parent-aware RAG system designed to reduce incomplete evidence and unsupported citations.
 
-## Tech Stack
+- Combined **BM25 + Qwen dense retrieval + RRF + CUDA reranking** with structured evidence judging and bounded recovery.
+- Added grounded answer generation, deterministic PDF citations, multi-turn context, private accounts, and isolated conversation history.
+- Constructed a **500-question human-verified benchmark** across five Vietnamese political-theory subjects.
+- Frozen retrieval achieved **98.64% Recall@5** and **94.56% Full Evidence@5** in a one-shot held-out evaluation of **147 answerable questions**.
 
-**Languages**
+## Publication
+
+### [Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition](https://github.com/tuanfptu/Qwen3-VL-HMER)
+
+**First Author · Accepted at [SIMC 2026](https://www.simc-conf.org/)**
+
+Official implementation: [Qwen3-VL-HMER](https://github.com/tuanfptu/Qwen3-VL-HMER)
+
+## Technical Stack
+
+**ML / Deep Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Machine Learning & Multimodal AI**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 
-**LLMs, RAG & Agentic AI**
+**LLM / RAG / Multimodal**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat&logo=alibabacloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Infrastructure & Applications**
+**Engineering**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Awards & Scholarships
+## Honors & Scholarships
 
-- **Third Prize**, Vietnam National Physics Olympiad for High School Students — 2020
-- **Consolation Prize**, Vietnam National Physics Olympiad for High School Students — 2019
-- **Vallet Scholarship** — 2019
-- **Full Scholarship in Aeronautical Engineering (2020)**, Samara University
+- **Third Prize** — Vietnam National Excellent Student Competition in Physics
+- **Vallet Scholarship**
+- **Fully Funded Scholarship** — Samara University
+- **50% Tuition Scholarship** — FPT University
+- **Selected Top-5 Team** — Solana Blockchain Bootcamp
 
----
+## Languages
 
-<div align="center">
-
-</div>
+**Vietnamese:** Native · **English:** CEFR B2 · **Russian:** CEFR B1
