@@ -20,41 +20,12 @@ Final-year Artificial Intelligence student at **FPT University** building evalua
 - **Research:** First-author paper accepted at **SIMC 2026**
 - **Interests:** Multimodal AI · LLM/RAG · Agentic AI · Computer Vision · Model Adaptation
 
-## Experience
-
-### [AI Engineer Intern — NIDEC Powertrain Systems (Vietnam)](https://github.com/tuanfptu/nidec-scan-quality-monitor)
-*May 2025 – Sep 2025*
-
-Built and deployed an end-to-end **LightGBM manufacturing-quality screening pipeline** covering tester-data ingestion, preprocessing, feature selection across approximately 175 signals, class-imbalance handling, traceable predictions, automated reporting, and a Windows/Streamlit workflow.
-
-- Deployed on a company PC for pre-shipment inspection.
-- In one verified production run, **15/15 reviewed alerts were manually confirmed as defects** (**100% PPV on reviewed alerts**).
-
 ## Featured Projects
 
 ### [University HMER — Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
-*Mar 2026 – Aug 2026*
 
-`Vision-Language Models` · `LoRA` · `Domain Adaptation` · `PyTorch`
-
-Adapted handwritten mathematical expression recognition systems to real classroom images affected by shadows, perspective distortion, imperfect cropping, long expressions, and diverse handwriting.
-
-- Built a multi-stage pipeline using **University12K + RealCalculus-1636**, TAMER adapter ablations, and **Uni-MuMER Qwen3.5-2B LoRA**.
-- Improved Uni-MuMER from **23.36% → 74.82% ExpRate** on a frozen **274-image blind test**.
-- TAMER-A3 achieved **71.17% ExpRate at 0.306 s/image**.
-- Dataset and selected artifacts are available on [Hugging Face](https://huggingface.co/tuan3110).
 
 ### [VietTheory Agentic Nexus — Evidence-Guided Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
-*Jan 2026 – Mar 2026*
-
-`Qwen` · `BM25` · `FAISS` · `RRF` · `Reranking` · `Gemini` · `FastAPI`
-
-Built a five-subject, parent-aware RAG system designed to reduce incomplete evidence and unsupported citations.
-
-- Combined **BM25 + Qwen dense retrieval + RRF + CUDA reranking** with structured evidence judging and bounded recovery.
-- Added grounded answer generation, deterministic PDF citations, multi-turn context, private accounts, and isolated conversation history.
-- Constructed a **500-question human-verified benchmark** across five Vietnamese political-theory subjects.
-- Frozen retrieval achieved **98.64% Recall@5** and **94.56% Full Evidence@5** in a one-shot held-out evaluation of **147 answerable questions**.
 
 ## Publication
 
