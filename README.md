@@ -29,8 +29,6 @@ Final-year Artificial Intelligence student at **FPT University** building evalua
 
 **First Author · Accepted at [SIMC 2026](https://www.simc-conf.org/)**
 
-Official implementation: [Qwen3-VL-HMER](https://github.com/tuanfptu/Qwen3-VL-HMER)
-
 ## Technical Stack
 
 **ML / Deep Learning**
