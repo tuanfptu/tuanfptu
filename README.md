@@ -16,10 +16,6 @@ Building evaluated AI systems from model adaptation to production deployment.
 
 Final-year Artificial Intelligence student at **FPT University** building evaluated ML systems, deployment-ready AI applications, and research-grade RAG pipelines. My work focuses on parameter-efficient vision-language model adaptation, hybrid retrieval and reranking, computer vision, and end-to-end ML deployment.
 
-- **Education:** B.Sc. in Artificial Intelligence, FPT University (2022–2026) · GPA: **8.3/10**
-- **Research:** First-author paper accepted at **SIMC 2026**
-- **Interests:** Multimodal AI · LLM/RAG · Agentic AI · Computer Vision · Model Adaptation
-
 ## Featured Projects
 
 ### [University HMER — Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
