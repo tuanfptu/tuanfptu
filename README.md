@@ -64,5 +64,4 @@ Final-year Artificial Intelligence student at **FPT University** building evalua
 - **Selected Top-5 Team** — Solana Blockchain Bootcamp
 
 ## Languages
-
-**Vietnamese:** Native · **English:** CEFR B2 · **Russian:** CEFR B1
+ **English:** B2 · **Russian:** CEFR B1
