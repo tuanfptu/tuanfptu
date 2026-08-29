@@ -18,10 +18,10 @@ Final-year Artificial Intelligence student at **FPT University** building evalua
 
 ## Featured Projects
 
-### [University HMER — Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
+### [University HMER - Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 
 
-### [VietTheory Agentic Nexus — Evidence-Guided Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
+### [VietTheory Agentic Nexus - Evidence-Guided Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
 
 ## Publication
 
