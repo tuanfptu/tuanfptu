@@ -57,11 +57,11 @@ Final-year Artificial Intelligence student at **FPT University** building evalua
 
 ## Honors & Scholarships
 
-- **Third Prize** — Vietnam National Excellent Student Competition in Physics
+- **Third Prize** - Vietnam National Excellent Student Competition in Physics
 - **Vallet Scholarship**
-- **Fully Funded Scholarship** — Samara University
-- **50% Tuition Scholarship** — FPT University
-- **Selected Top-5 Team** — Solana Blockchain Bootcamp
+- **Fully Funded Scholarship** - Samara University
+- **50% Tuition Scholarship** - FPT University
+- **Selected Top-5 Team** - Solana Blockchain Bootcamp
 
 ## Languages
  **English:** B2 · **Russian:** CEFR B1
