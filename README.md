@@ -14,9 +14,11 @@ Building evaluated AI systems from model adaptation to production deployment.
 
 ## 1. About
 
+
 AI Engineer and Artificial Intelligence graduate from **FPT University**, with experience building and evaluating machine learning systems, deployment-ready AI applications, and research-grade RAG pipelines. My work focuses on parameter-efficient vision-language model adaptation, hybrid retrieval and reranking, computer vision, multi-agent system, and end-to-end ML deployment. I am particularly interested in bridging AI research and production through rigorous experimentation, evaluation, and scalable implementation.
 
 ## 2. Featured Projects
+
 
 ### [University HMER - Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 
@@ -27,6 +29,7 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ##  3. Dataset Impact
 
+
 **University-HMER-RealClassroom** has reached **4.6K+ all-time downloads on Hugging Face**.
 
 🤗 [View the dataset on Hugging Face](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
@@ -34,11 +37,13 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ## 4. Publication
 
+
 ### [Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition](https://github.com/tuanfptu/Qwen3-VL-HMER)
 
 **First Author · Accepted at [SIMC 2026](https://www.simc-conf.org/)**
 
 ## 5. Technical Stack
+
 
 **ML / Deep Learning**
 
@@ -66,6 +71,7 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ## 6. Honors & Scholarships
 
+
 - **Third Prize** - Vietnam National Excellent Student Competition in Physics
 - **Vallet Scholarship**
 - **Fully Funded Scholarship** - Samara University
@@ -73,4 +79,5 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 - **Selected Top-5 Team** - Solana Blockchain Bootcamp
 
 ## 7. Languages
+
  **English:** B2 · **Russian:** B1
