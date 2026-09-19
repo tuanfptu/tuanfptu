@@ -14,7 +14,7 @@ Building evaluated AI systems from model adaptation to production deployment.
 
 ## 1. About
 
-AI Engineer and Artificial Intelligence graduate from **FPT University**, with experience building and evaluating machine learning systems, deployment-ready AI applications, and research-grade RAG pipelines. My work focuses on parameter-efficient vision-language model adaptation, hybrid retrieval and reranking, computer vision, and end-to-end ML deployment. I am particularly interested in bridging AI research and production through rigorous experimentation, evaluation, and scalable implementation.
+AI Engineer and Artificial Intelligence graduate from **FPT University**, with experience building and evaluating machine learning systems, deployment-ready AI applications, and research-grade RAG pipelines. My work focuses on parameter-efficient vision-language model adaptation, hybrid retrieval and reranking, computer vision, multi-agent system, and end-to-end ML deployment. I am particularly interested in bridging AI research and production through rigorous experimentation, evaluation, and scalable implementation.
 
 ## 2. Featured Projects
 
