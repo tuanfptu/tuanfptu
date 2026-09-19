@@ -20,8 +20,9 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ### [University HMER - Real-World Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 
-
 ### [VietTheory Agentic Nexus - Evidence-Guided Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
+
+### [Multi-Agent: TeachBackAI](https://github.com/tuanfptu/K4-3A-E403-TeachBack-AI)
 
 ## Publication
 
