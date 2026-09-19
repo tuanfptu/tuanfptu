@@ -25,7 +25,7 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 ### [Multi-Agent: TeachBackAI](https://github.com/tuanfptu/K4-3A-E403-TeachBack-AI)
 
 
-## 📊 Dataset Impact
+##  Dataset Impact
 
 **University-HMER-RealClassroom** has reached **4.6K+ all-time downloads on Hugging Face**.
 
