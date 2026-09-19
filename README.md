@@ -24,6 +24,14 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ### [Multi-Agent: TeachBackAI](https://github.com/tuanfptu/K4-3A-E403-TeachBack-AI)
 
+
+## 📊 Dataset Impact
+
+**University-HMER-RealClassroom** has reached **4.6K+ all-time downloads on Hugging Face**.
+
+🤗 [View the dataset on Hugging Face](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
+
+
 ## Publication
 
 ### [Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition](https://github.com/tuanfptu/Qwen3-VL-HMER)
