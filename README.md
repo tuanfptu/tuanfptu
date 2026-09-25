@@ -2,7 +2,7 @@
 
 # HA MANH TUAN
 
-### AI Engineer | Multimodal AI · LLM/RAG · Computer Vision
+### AI Engineer | Multimodal AI · Computer Vision/ VLM/ Agent
 
 Building evaluated AI systems from model adaptation to production deployment.
 
