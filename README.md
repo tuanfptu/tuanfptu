@@ -32,9 +32,7 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 
 ## 📊 University-HMER-RealClassroom
 
-[![Hugging Face Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Ftuan3110%2FUniversity-HMER-RealClassroom&query=%24.downloads&label=Downloads&logo=huggingface&color=yellow)](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
-[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
-
+[![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Ftuan3110%2FUniversity-HMER-RealClassroom&query=%24.downloads_all_time&label=HF%20Downloads&logo=huggingface&color=yellow)](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
 
 ## 4. Publication
 
