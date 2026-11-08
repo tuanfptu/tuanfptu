@@ -43,6 +43,6 @@ Evidence-guided retrieval and multi-agent AI systems.
 
 ## Honors & Scholarships
 
-- **Third Prize** – Vietnam National Excellent Student Competition in Physics
-- **Russian Government Full Scholarship** – Vietnam–Russia Bilateral Agreement
-- **Vallet Scholarship**
+- **Third Prize** – Vietnam National Excellent Student Competition in Physics 2020
+- **Russian Government Full Scholarship** – Vietnam–Russia Bilateral Agreement 2020
+- **Vallet Scholarship** 2019
