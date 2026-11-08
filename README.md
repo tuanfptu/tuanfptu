@@ -73,9 +73,3 @@ AI Engineer and Artificial Intelligence graduate from **FPT University**, with e
 - **Third Prize** - Vietnam National Excellent Student Competition in Physics
 - **Vallet Scholarship**
 - **Fully Funded Scholarship** - Samara University
-- **50% Tuition Scholarship** - FPT University
-- **Selected Top-5 Team** - Solana Blockchain Bootcamp
-
-## 7. Languages
-
- **English:** B2 · **Russian:** B1
