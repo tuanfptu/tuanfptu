@@ -12,7 +12,7 @@ AI Engineer focused on **Robotics, Robot Learning, and Vision-Action**.
 
 Currently interning at **VinRobotics – Motion Control**, working on Vision-Action learning for robotic manipulation.
 
-Background in Computer Vision, Deep Learning, and Multimodal AI research.
+Background in CV, RL, and Multimodal AI research.
 
 ## Featured Projects
 
