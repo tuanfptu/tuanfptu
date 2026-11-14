@@ -22,9 +22,6 @@ Research and implementation of Behavioral Cloning, ACT, Diffusion/Flow Policies,
 ### [University HMER – Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 1st Place Graduation Thesis (Team Leader). Research on real-world mathematical expression recognition and vision-language model adaptation.
 
-### [VietTheory – Agentic RAG](https://github.com/tuanfptu/VietTheory-Agentic-Nexus)
-Evidence-guided retrieval and multi-agent AI systems.
-
 ## Research & Publications
 
 **First Author – SIMC 2026**
