@@ -16,9 +16,6 @@ Background in CV, RL, and Multimodal AI research.
 
 ## Featured Projects
 
-### [Vision-Action Research Lab](https://github.com/tuanfptu/vision-action-research-lab)
-Research and implementation of Behavioral Cloning, ACT, Diffusion/Flow Policies, and robotic control.
-
 ### [University HMER – Handwritten Math Recognition](https://github.com/tuanfptu/SU26AI46_GSU08-Capstone-UniversityHMER)
 1st Place Graduation Thesis (Team Leader). Research on real-world mathematical expression recognition and vision-language model adaptation.
 
