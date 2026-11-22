@@ -25,8 +25,6 @@ Background in CV, RL, and Multimodal AI research.
 
 [Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition](https://github.com/tuanfptu/Qwen3-VL-HMER)
 
-**Public Dataset:** [University-HMER-RealClassroom](https://huggingface.co/datasets/tuan3110/University-HMER-RealClassroom)
-
 ## Technical Focus
 
 **Robotics:** Robot Learning · Vision-Action · Imitation Learning · ROS 2 · MuJoCo
