@@ -19,8 +19,6 @@ Background in CV, RL, and Multimodal AI research.
 
 ## Research & Publications
 
-**First Author – SIMC 2026**
-
 [Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition](https://github.com/tuanfptu/Qwen3-VL-HMER)
 
 ## Technical Focus
