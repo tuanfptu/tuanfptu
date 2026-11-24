@@ -1,6 +1,6 @@
 # HA MANH TUAN
 
- Robotics & Robot Learning
+Robot Learning
 
 [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Hugging Face](https://huggingface.co/tuan3110) · [Email](mailto:hatuan31102002@gmail.com)
 
