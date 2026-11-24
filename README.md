@@ -1,14 +1,12 @@
 # HA MANH TUAN
 
-Robot Learning
+Robot Learning Engineer
 
 [LinkedIn](https://www.linkedin.com/in/muan3110/) · [Hugging Face](https://huggingface.co/tuan3110) · [Email](mailto:hatuan31102002@gmail.com)
 
 ---
 
 ## About
-
-AI Engineer focused on **Robotics, Robot Learning, and Vision-Action**.
 
 Currently interning at **VinRobotics – Motion Control**, working on imitation learning, reinforcement learning for robotic manipulation.
 
